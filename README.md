@@ -18,7 +18,7 @@ I'm a fourth-year Computer Science student at the University of Utah, passionate
 ![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=flat&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css3&logoColor=white)
 
 **Frameworks / Tools:**  
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
