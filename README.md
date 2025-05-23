@@ -6,7 +6,6 @@ I'm a fourth-year Computer Science student at the University of Utah, passionate
 ## 🚀 What I'm Up To
 - 📱 Exploring mobile app development with **React Native** and **Expo Go**
 - 🧩 Building Spring Boot applications with **PostgreSQL**
-- 🔐 Learning authentication with **Spring Security**
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudson-collier/)
@@ -21,13 +20,10 @@ I'm a fourth-year Computer Science student at the University of Utah, passionate
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
 
-**Frameworks / Libraries:**  
+**Frameworks / Tools:**  
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000000?style=flat&logo=expo&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
