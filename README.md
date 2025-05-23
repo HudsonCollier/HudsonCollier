@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hudson Collier</h1>
 
-## 🧠 About Me
+# 🧠 About Me
 I'm a fourth-year Computer Science student at the University of Utah, passionate about backend systems and mobile development. I enjoy building practical, user-friendly applications and exploring new tech through side projects.
 
 ## 🚀 What I'm Up To
@@ -10,7 +10,7 @@ I'm a fourth-year Computer Science student at the University of Utah, passionate
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudson-collier/)
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white)
