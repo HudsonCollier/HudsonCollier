@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hudson Collier</h1>
+<h1 align="center">Hi 👋 I'm Hudson Collier</h1>
 
 ## 🧠 About Me
 I'm a fourth-year Computer Science student at the University of Utah, passionate about backend systems and mobile development. I enjoy building practical, user-friendly applications and exploring new tech through side projects.
